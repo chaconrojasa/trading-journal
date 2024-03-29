@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "hI1jsmJLeyw8xakYg3tSJOhJzWfg/o4g3UcniZVjoE9dis7tFrcP9qV6D2l19H3eialwXNd9gV3nKBu+IwVIUg==",
+  "success": true,
+  "projectFilePath": "/Users/brimloo/Desktop/Projects/DotNet/TradingJournalApi/TradingJournalApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/brimloo/.nuget/packages/microsoft.entityframeworkcore/8.0.3/microsoft.entityframeworkcore.8.0.3.nupkg.sha512",
+    "/Users/brimloo/.nuget/packages/microsoft.entityframeworkcore.abstractions/8.0.3/microsoft.entityframeworkcore.abstractions.8.0.3.nupkg.sha512",
+    "/Users/brimloo/.nuget/packages/microsoft.entityframeworkcore.analyzers/8.0.3/microsoft.entityframeworkcore.analyzers.8.0.3.nupkg.sha512",
+    "/Users/brimloo/.nuget/packages/microsoft.extensions.caching.abstractions/8.0.0/microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "/Users/brimloo/.nuget/packages/microsoft.extensions.caching.memory/8.0.0/microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",
+    "/Users/brimloo/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "/Users/brimloo/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/brimloo/.nuget/packages/microsoft.extensions.logging/8.0.0/microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "/Users/brimloo/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/Users/brimloo/.nuget/packages/microsoft.extensions.options/8.0.0/microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "/Users/brimloo/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "/Users/brimloo/.nuget/packages/npgsql/8.0.2/npgsql.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
