@@ -3,15 +3,6 @@
 # See: https://circleci.com/docs/configuration-reference
 version: 2.1
 jobs:
-  test:
-    docker:
-      - image: cimg/base:stable
-    steps:
-      - checkout
-      # Replace this with a real test runner invocation
-      - run:
-          name: Run tests
-          command: echo 'replace me with real tests!'
   build:
     docker:
       - image: cimg/base:stable
@@ -32,12 +23,9 @@ jobs:
           name: deploy
           command: "#e.g. ./deploy.sh"
 workflows:
-  example:
+  build_and_deploy:
     jobs:
-      - test
-      - build:
-          requires:
-            - test
+      - build
       - deploy:
           requires:
-            - test
+            - build
